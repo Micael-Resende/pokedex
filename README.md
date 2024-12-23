@@ -2,7 +2,7 @@
 
 PokéExplorer é um aplicativo móvel multiplataforma desenvolvido em **React Native** que permite aos usuários explorar, pesquisar e interagir com informações detalhadas sobre Pokémons utilizando a **PokéAPI**. Com uma interface amigável e responsiva, o aplicativo oferece uma experiência imersiva para fãs de Pokémon e entusiastas de tecnologia.
 
-**PROJETO EM FASE DE DESENVOLVIMENTO**
+<span>**O projeto encontra-se atualmente em fase de desenvolvimento. Como esta é a minha primeira experiência programando em React Native, o período de aprendizado tem sido mais prolongado**.</span>
 
 ## 🛠️ Funcionalidades
 
