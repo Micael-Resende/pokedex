@@ -57,13 +57,12 @@ PokéExplorer é um aplicativo móvel multiplataforma desenvolvido em **React Na
 
 ## 📸 Screenshots
 
-![Tela Inicial](./assets/screenshots/home.png)
 *Tela inicial com lista de Pokémons, busca e filtros.*
 
-![Detalhes do Pokémon](./assets/screenshots/details.png)
+
 *Detalhes completos de um Pokémon selecionado.*
 
-![Favoritos](./assets/screenshots/favorites.png)
+
 *Lista de Pokémons favoritos.*
 
 ## 🔧 Instalação
